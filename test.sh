@@ -1,4 +1,5 @@
 #! /bin/bash
+set -x
 echo "good morning" 
 
 GETOPT=$(getopt -o p:u: -l password:,username:, -- "$@")
