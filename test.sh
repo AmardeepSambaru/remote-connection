@@ -45,4 +45,4 @@ while true; do
 done
 
 
-echo "Good morning $USERNAME my password is $PASSWORD "
+echo "Good morning $username my password is $password "
